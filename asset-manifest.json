@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/index/static/css/main.f1972005.css",
-    "main.js": "/index/static/js/main.22da3c89.js",
-    "static/media/henrick.jpg": "/index/static/media/henrick.ea1e15b3ae08cf078978.jpg",
-    "static/media/clouds.png": "/index/static/media/clouds.3c700c1313cc1cd3d3c5.png",
-    "static/media/antoine-barres.jpg": "/index/static/media/antoine-barres.bc3299c239c25e5bf937.jpg",
-    "static/media/Robo_1.jpg": "/index/static/media/Robo_1.5b7b8785cfa5acd0c124.jpg",
-    "static/media/fog-low.png": "/index/static/media/fog-low.965eab52c95e117d1d45.png",
-    "static/media/FaceRecognition_4.jpg": "/index/static/media/FaceRecognition_4.eff0c5a90cd7db8f2955.jpg",
-    "static/media/FaceRecognition_5.jpg": "/index/static/media/FaceRecognition_5.18d86b4be43394d668e5.jpg",
-    "static/media/Robo_2.jpg": "/index/static/media/Robo_2.9c635f8986855b69b3fa.jpg",
-    "static/media/FaceRecognition_3.jpg": "/index/static/media/FaceRecognition_3.690bf007bb5e09f06cdb.jpg",
-    "static/media/FaceRecognition_1.jpg": "/index/static/media/FaceRecognition_1.7f6d861d23cf15147db5.jpg",
-    "static/media/FaceRecognition_2.jpg": "/index/static/media/FaceRecognition_2.b74a5adb8c990e0fd576.jpg",
-    "static/media/ToDoList_3.jpg": "/index/static/media/ToDoList_3.a282b3f6caa72e6e211f.jpg",
-    "static/media/ToDoList_2.jpg": "/index/static/media/ToDoList_2.8df83d428d5378d15f90.jpg",
-    "static/media/ToDoList_1.jpg": "/index/static/media/ToDoList_1.f3bc8dbeda5df8dcc087.jpg",
-    "static/media/nucleo-icons.eot": "/index/static/media/nucleo-icons.bd42d77b9672555647d1.eot",
-    "static/media/nucleo-icons.ttf": "/index/static/media/nucleo-icons.4466aeec3386b965a232.ttf",
-    "static/media/nucleo-icons.woff": "/index/static/media/nucleo-icons.8e954b749f951b654fc6.woff",
-    "static/media/nucleo-icons.woff2": "/index/static/media/nucleo-icons.ec16bc4cc4526801004d.woff2",
-    "index.html": "/index/index.html"
+    "main.css": "/portfolio/index/static/css/main.21cfd09f.css",
+    "main.js": "/portfolio/index/static/js/main.d2496452.js",
+    "static/media/henrick.jpg": "/portfolio/index/static/media/henrick.ea1e15b3ae08cf078978.jpg",
+    "static/media/clouds.png": "/portfolio/index/static/media/clouds.3c700c1313cc1cd3d3c5.png",
+    "static/media/antoine-barres.jpg": "/portfolio/index/static/media/antoine-barres.bc3299c239c25e5bf937.jpg",
+    "static/media/Robo_1.jpg": "/portfolio/index/static/media/Robo_1.5b7b8785cfa5acd0c124.jpg",
+    "static/media/fog-low.png": "/portfolio/index/static/media/fog-low.965eab52c95e117d1d45.png",
+    "static/media/FaceRecognition_4.jpg": "/portfolio/index/static/media/FaceRecognition_4.eff0c5a90cd7db8f2955.jpg",
+    "static/media/FaceRecognition_5.jpg": "/portfolio/index/static/media/FaceRecognition_5.18d86b4be43394d668e5.jpg",
+    "static/media/Robo_2.jpg": "/portfolio/index/static/media/Robo_2.9c635f8986855b69b3fa.jpg",
+    "static/media/FaceRecognition_3.jpg": "/portfolio/index/static/media/FaceRecognition_3.690bf007bb5e09f06cdb.jpg",
+    "static/media/FaceRecognition_1.jpg": "/portfolio/index/static/media/FaceRecognition_1.7f6d861d23cf15147db5.jpg",
+    "static/media/FaceRecognition_2.jpg": "/portfolio/index/static/media/FaceRecognition_2.b74a5adb8c990e0fd576.jpg",
+    "static/media/ToDoList_3.jpg": "/portfolio/index/static/media/ToDoList_3.a282b3f6caa72e6e211f.jpg",
+    "static/media/ToDoList_2.jpg": "/portfolio/index/static/media/ToDoList_2.8df83d428d5378d15f90.jpg",
+    "static/media/ToDoList_1.jpg": "/portfolio/index/static/media/ToDoList_1.f3bc8dbeda5df8dcc087.jpg",
+    "static/media/nucleo-icons.eot": "/portfolio/index/static/media/nucleo-icons.bd42d77b9672555647d1.eot",
+    "static/media/nucleo-icons.ttf": "/portfolio/index/static/media/nucleo-icons.4466aeec3386b965a232.ttf",
+    "static/media/nucleo-icons.woff": "/portfolio/index/static/media/nucleo-icons.8e954b749f951b654fc6.woff",
+    "static/media/nucleo-icons.woff2": "/portfolio/index/static/media/nucleo-icons.ec16bc4cc4526801004d.woff2",
+    "index.html": "/portfolio/index/index.html"
   },
   "entrypoints": [
-    "static/css/main.f1972005.css",
-    "static/js/main.22da3c89.js"
+    "static/css/main.21cfd09f.css",
+    "static/js/main.d2496452.js"
   ]
 }
