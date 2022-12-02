@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/task-manager/static/css/main.341f83b8.css",
+    "main.js": "/task-manager/static/js/main.f038b7ca.js",
+    "static/media/henrick.jpg": "/task-manager/static/media/henrick.ea1e15b3ae08cf078978.jpg",
+    "static/media/clouds.png": "/task-manager/static/media/clouds.3c700c1313cc1cd3d3c5.png",
+    "static/media/antoine-barres.jpg": "/task-manager/static/media/antoine-barres.bc3299c239c25e5bf937.jpg",
+    "static/media/Robo_1.jpg": "/task-manager/static/media/Robo_1.5b7b8785cfa5acd0c124.jpg",
+    "static/media/fog-low.png": "/task-manager/static/media/fog-low.965eab52c95e117d1d45.png",
+    "static/media/FaceRecognition_4.jpg": "/task-manager/static/media/FaceRecognition_4.eff0c5a90cd7db8f2955.jpg",
+    "static/media/FaceRecognition_5.jpg": "/task-manager/static/media/FaceRecognition_5.18d86b4be43394d668e5.jpg",
+    "static/media/Robo_2.jpg": "/task-manager/static/media/Robo_2.9c635f8986855b69b3fa.jpg",
+    "static/media/FaceRecognition_3.jpg": "/task-manager/static/media/FaceRecognition_3.690bf007bb5e09f06cdb.jpg",
+    "static/media/FaceRecognition_1.jpg": "/task-manager/static/media/FaceRecognition_1.7f6d861d23cf15147db5.jpg",
+    "static/media/FaceRecognition_2.jpg": "/task-manager/static/media/FaceRecognition_2.b74a5adb8c990e0fd576.jpg",
+    "static/media/ToDoList_3.jpg": "/task-manager/static/media/ToDoList_3.a282b3f6caa72e6e211f.jpg",
+    "static/media/ToDoList_2.jpg": "/task-manager/static/media/ToDoList_2.8df83d428d5378d15f90.jpg",
+    "static/media/ToDoList_1.jpg": "/task-manager/static/media/ToDoList_1.f3bc8dbeda5df8dcc087.jpg",
+    "static/media/nucleo-icons.eot": "/task-manager/static/media/nucleo-icons.bd42d77b9672555647d1.eot",
+    "static/media/nucleo-icons.ttf": "/task-manager/static/media/nucleo-icons.4466aeec3386b965a232.ttf",
+    "static/media/nucleo-icons.woff": "/task-manager/static/media/nucleo-icons.8e954b749f951b654fc6.woff",
+    "static/media/nucleo-icons.woff2": "/task-manager/static/media/nucleo-icons.ec16bc4cc4526801004d.woff2",
+    "index.html": "/task-manager/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.341f83b8.css",
+    "static/js/main.f038b7ca.js"
+  ]
+}
