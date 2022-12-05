@@ -49,7 +49,7 @@ function SectionAbout() {
                             <br />
                             <Button
                                 className="btn-round"
-                                color="danger"
+                                color="success"
                                 href="mailto:henrickdeguzman@gmail.com"
                                 target="_blank"
                             >
@@ -57,12 +57,12 @@ function SectionAbout() {
                             </Button>
                             <Button
                                 className="btn-round ml-2"
-                                color="danger"
-                                href="https://nucleoapp.com/?ref=1712"
+                                color="success"
+                                href="../../assets/pdf/Resume_De-Guzman-Henrick.pdf"
                                 outline
                                 target="_blank"
                             >
-                                KNOW MORE
+                                VIEW RESUME
                             </Button>
                         </Col>
                     </Row>
