@@ -58,7 +58,7 @@ function SectionAbout() {
                             <Button
                                 className="btn-round ml-2"
                                 color="success"
-                                href="../../assets/pdf/Resume_De-Guzman-Henrick.pdf"
+                                href="https://henrickdeguzman.github.io/resume/"
                                 outline
                                 target="_blank"
                             >
