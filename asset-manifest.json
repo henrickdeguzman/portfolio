@@ -1,7 +1,10 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.7639379c.css",
-    "main.js": "/portfolio/static/js/main.61e08347.js",
+    "main.js": "/portfolio/static/js/main.af104e23.js",
+    "static/media/GameHub2.png": "/portfolio/static/media/GameHub2.ffddb2ad1bc906edc129.png",
+    "static/media/GameHub1.png": "/portfolio/static/media/GameHub1.fce9459bce683450f5f2.png",
+    "static/media/GameHub3.png": "/portfolio/static/media/GameHub3.20958345198bfa379d91.png",
     "static/media/henrick.jpg": "/portfolio/static/media/henrick.ea1e15b3ae08cf078978.jpg",
     "static/media/clouds.png": "/portfolio/static/media/clouds.3c700c1313cc1cd3d3c5.png",
     "static/media/antoine-barres.jpg": "/portfolio/static/media/antoine-barres.bc3299c239c25e5bf937.jpg",
@@ -24,6 +27,6 @@
   },
   "entrypoints": [
     "static/css/main.7639379c.css",
-    "static/js/main.61e08347.js"
+    "static/js/main.af104e23.js"
   ]
 }
