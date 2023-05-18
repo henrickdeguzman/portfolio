@@ -125,6 +125,36 @@ const projects = [
                 caption: ""
             }
         ]
+    },
+    {
+        title: "Game Hub",
+        description: "The app is build from Vite and it uses an external API from RAWG."
+            + " This app shows the games in different platforms and genres. It also shows"
+            + " the rating or critic of gamers",
+        source: "https://github.com/henrickdeguzman/game-hub",
+        live: "https://game-hub-mu-ten.vercel.app/",
+        tech: [
+            "React",
+            "TypeScript",
+            "Vite",
+        ],
+        demo: [
+            {
+                src: require("assets/img/projects/GameHub1.png"),
+                altText: "",
+                caption: ""
+            },
+            {
+                src: require("assets/img/projects/GameHub2.png"),
+                altText: "",
+                caption: ""
+            },
+            {
+                src: require("assets/img/projects/GameHub3.png"),
+                altText: "",
+                caption: ""
+            }
+        ]
     }
 ];
 
